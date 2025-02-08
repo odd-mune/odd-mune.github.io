@@ -27,6 +27,8 @@ domain: odd-mune.github.io       # if you want to force HTTPS, specify the domai
 url: "https://odd-mune.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  odd-mune
+linkedin_username: oddmune-undefined-7aa125350
+instagram_username: oddmune
 
 # Build settings
 theme: minima
