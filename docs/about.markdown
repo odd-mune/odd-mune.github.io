@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I am an aspiring game designer from Korea!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am currently graduating from [Kyung Hee University](https://www.khu.ac.kr/eng/user/main/view.do), [College of Art & Design](https://and.khu.ac.kr/and_eng/user/main/view.do), Department of Digital Content with a B.A. in [Digital Contents](http://dc.khu.ac.kr/html/)(2020.03 ~ 2025.02).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am currently working on a horror-themed farming game as the game designer with my friends for the [Farm Jam 2025](https://itch.io/jam/farm-jam-2025).
