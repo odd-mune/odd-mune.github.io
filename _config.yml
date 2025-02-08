@@ -54,3 +54,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+header_pages:
+  - portfolio.html
