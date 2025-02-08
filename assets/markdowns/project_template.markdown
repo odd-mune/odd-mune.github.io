@@ -1,6 +1,6 @@
 ---
 title: "Gourmet of Fire"
-image: "assets/images/gourmet_of_fire.png"
+image: "/assets/images/gourmet_of_fire.png"
 layout: project
 ---
 
