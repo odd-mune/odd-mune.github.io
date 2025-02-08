@@ -60,5 +60,8 @@ collections:
     output: true
     permalink: /projects/:path/
 
-header_pages:
-  - portfolio.html
+# header_pages:
+#   - about.markdown
+#   - contact.markdown
+#   - cv.markdown
+#   - portfolio.html
