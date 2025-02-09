@@ -56,3 +56,11 @@ A short viral ad video of around 1 minute, perfect for Instagram feeds, reels, a
 * Coordinating with the contractor(LoveCharm)
   * Meeting the schedule demands
     * A few weeks for pre-production
+
+## Reviews / Feedbacks
+
+![](/assets/images/lovecharm_award.jpg)
+![](/assets/images/lovecharm_awards_ceremony.jpg)
+![](/assets/images/lovecharm_awards_team_members.jpg)
+
+* Won the Outstanding Award from the [2021 Design Marketing Support Group](https://youtube.com/playlist?list=PLhNBuwpSPpmVYi3Tx9jfgnExjcdu6otnE&si=P7xBsaRvGDuLsGWy), a combined group of [LINC+ Program](https://aladdin.khu.ac.kr/) of [Kyung Hee University](https://www.khu.ac.kr/eng/user/main/view.do) and [SNIP (Seongnam Industrial Promotion Agency)](http://snip.or.kr/).
