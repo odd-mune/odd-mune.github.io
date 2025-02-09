@@ -90,6 +90,8 @@ In the land of gourmet, the Kingdom of Cuisine, under the protection of the fire
 
 ![Synopsis](/assets/images/gourmet_of_fire_creative_submission_01.jpg)
 
+![Story Outline](/assets/images/gourmet_of_fire_creative_submission_02.jpg)
+
 ## Contributions / Responsibilities
 
 * Unity
