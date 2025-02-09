@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 
-<h1>Game Projects</h1>
+<h1>Projects</h1>
 
 <div class="portfolio-grid">
   {% for project in site.projects %}
