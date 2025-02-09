@@ -1,6 +1,6 @@
 ---
 title: "Who[hu;] Board Game"
-image: "/assets/images/gourmet_of_fire.png"
+image: "https://imported-rubidium-c25.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fdf426fa9-315c-4c07-b8cd-92ef2da301ff%2F92f7bda6-1676-4483-8a21-8382745f4d0f%2F%25ED%2599%2594%25EB%25A9%25B4_%25EC%25BA%25A1%25EC%25B2%2598_2024-06-27_223911.png?table=block&id=4569438a-5181-4526-b6d0-d1544c5e928e&spaceId=df426fa9-315c-4c07-b8cd-92ef2da301ff&width=2000&userId=&cache=v2"
 layout: project
 ---
 
