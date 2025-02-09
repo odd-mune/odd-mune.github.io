@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/images/profile_picture_side.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
-
-<img src="/assets/images/odd_mune_profile.png" alt="oddmune" width="150">
+<div><img src="/assets/images/profile_picture_side.jpg" alt="Profile Image" width="150" style="border-radius: 50%;"> <img src="/assets/images/odd_mune_profile.png" alt="oddmune" width="150"></div>
 
 Hi! I am an aspiring game designer from Korea who wants to create a game that excites people. As a general designer, I want to make art crafted with engineering to pursue both visual aesthetics and fun.
 
