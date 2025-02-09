@@ -4,6 +4,8 @@ title: "CV"
 permalink: /cv/
 ---
 
+<img src="assets/images/profile_picture_front.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
+
 Mingyeom Song
 
 B.A. in Digital Contents, [Department of Digital Contents](http://dc.khu.ac.kr/html/), [College of Art & Design](https://and.khu.ac.kr/and_eng/user/main/view.do), [Kyung Hee University](https://www.khu.ac.kr/eng/user/main/view.do)

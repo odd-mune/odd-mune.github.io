@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<img src="assets/images/profile_picture_side.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
+
+
 Hi! I am an aspiring game designer from Korea who wants to create a game that excites people. As a general designer, I want to make art crafted with engineering to pursue both visual aesthetics and fun.
 
 I am currently graduating from [Kyung Hee University](https://www.khu.ac.kr/eng/user/main/view.do), [College of Art & Design](https://and.khu.ac.kr/and_eng/user/main/view.do), Department of Digital Content with a B.A. in [Digital Contents](http://dc.khu.ac.kr/html/)(2020.03 ~ 2025.02).
