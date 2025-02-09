@@ -88,6 +88,8 @@ In the land of gourmet, the Kingdom of Cuisine, under the protection of the fire
 * Status: Finished prototype
 * Role: Game designer, game programmer
 
+![Synopsis](/assets/images/gourmet_of_fire_creative_submission_01.jpg)
+
 ## Contributions / Responsibilities
 
 * Unity

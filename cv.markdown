@@ -10,6 +10,8 @@ Mingyeom Song
 
 Game designer with focus on world building and level design.
 
+[CV](/assets/documents/cv.pdf)
+
 ## Education
 
 * B.A. in Digital Contents, [Department of Digital Contents](http://dc.khu.ac.kr/html/), [College of Art & Design](https://and.khu.ac.kr/and_eng/user/main/view.do), [Kyung Hee University](https://www.khu.ac.kr/eng/user/main/view.do)
