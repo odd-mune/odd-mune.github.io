@@ -16,10 +16,6 @@ layout: project
     <div class="slide"><img src="https://tumblbug-psi.imgix.net/3ade3b098b2ff9e757bae3e290e4c4497f0c40f7/fa9dedcbfd55c348ea686d552fbd16d35e9f6f9a/4904cbabe024ae6c3dada657a354c76a2bacdd5a/6e3f5880-2cce-4ba1-8826-90fa9d1eda8d.png?ixlib=rb-1.1.0&w=1240&auto=format%2C%20compress&lossless=true&ch=save-data&s=8402ec21430b9055627abe9a9790afca" alt="Characters Concept"></div>
     <div class="slide"><img src="https://tumblbug-psi.imgix.net/3ade3b098b2ff9e757bae3e290e4c4497f0c40f7/fa9dedcbfd55c348ea686d552fbd16d35e9f6f9a/4904cbabe024ae6c3dada657a354c76a2bacdd5a/9c1b3ce7-bab2-47b5-ba95-8fcde287ee23.jpg?ixlib=rb-1.1.0&w=1240&auto=format%2C%20compress&lossless=true&ch=save-data&s=971a5b081bcf867fc4bac98eb08ecd15" alt="Dice"></div>
     <div class="slide"><img src="https://tumblbug-psi.imgix.net/3ade3b098b2ff9e757bae3e290e4c4497f0c40f7/fa9dedcbfd55c348ea686d552fbd16d35e9f6f9a/4904cbabe024ae6c3dada657a354c76a2bacdd5a/b168f159-8574-4fa9-a4ab-75030431fa81.jpg?ixlib=rb-1.1.0&w=1240&auto=format%2C%20compress&lossless=true&ch=save-data&s=8f51a066e6821b18d07d7321d5274793" alt="Characters"></div>
-    <div class="slide"><img src="/assets/images/gourmet_of_fire_dialog.jpg" alt="Dialog"></div>
-    <div class="slide"><img src="/assets/images/gourmet_of_fire_field_level.jpg" alt="Field Level"></div>
-    <div class="slide"><img src="/assets/images/gourmet_of_fire_village_level.jpg" alt="Village Level"></div>
-    <div class="slide"><img src="/assets/images/gourmet_of_fire_in_house_level.jpg" alt="In-House Level"></div>
   </div>
 </div>
 
