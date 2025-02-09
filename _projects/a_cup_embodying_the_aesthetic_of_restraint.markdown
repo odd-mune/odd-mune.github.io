@@ -159,7 +159,8 @@ I was a product designer, a product photographer, and a customer services manage
 
 Translations:
 
-* I recently have more time enjoying light drinks at home, and now I can get both aesthetics and restraint at the same time! It makes me really fill the cup up to the column lol (@sooo*** / 21 yo / female)
-* I sometimes drink fruit 
+* I recently have more time enjoying light drinks at home, and now I can get both vibes and restraint at the same time! It makes me really fill the cup up to the column lol (@sooo*** / 21 yo / female)
+* I sometimes drink fruit wine after work, and the way the cup fills the wine in the shape of a moon is so pretty that it keeps me drinking. I think the matte and chic color is beautiful. (@_.yye*** / 32 yo / female)
+* I think if I took these cups to MT back in university days, it would have made me very famous lol. Thanks to COVID 19, my alcohol mates were all family, so I gifted a cup to my father, and he is really enjoyed it, and I am also enjoying the cup too. The vibes it gives when drinking alone is so good ;). (@haw*** / 27 yo / female)
 
 [Blog Review](https://blog.naver.com/designpress2016/222346699284)
