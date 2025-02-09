@@ -24,21 +24,23 @@ Link to the game
 <style>
   .slideshow-container {
     max-width: 600px;
+    width: 100%;
     position: relative;
     margin: auto;
     overflow: hidden;
     border-radius: 10px;
     aspect-ratio: 16 / 9; /* Maintain a proper aspect ratio */
+    background-color: black; /* Prevents white flashes */
   }
 
   .slides-wrapper {
     display: flex;
     transition: transform 1s ease-in-out;
+    width: 100%;
   }
 
   .slide {
     min-width: 100%;
-    flex-shrink: 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,7 +48,7 @@ Link to the game
 
   .slide img {
     max-width: 100%;
-    max-height: 100%;
+    height: auto; /* Keeps aspect ratio */
     object-fit: contain; /* Ensures the image fits properly */
   }
 </style>
