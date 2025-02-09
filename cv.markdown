@@ -18,6 +18,7 @@ Game designer with focus on world building and level design.
 
 ## Work
 
+* 2023 Summer. Illustration Design, [Avalon English](https://www.avalon.co.kr/main)
 <!-- TODO: Add part-time / freelance works related to design -->
 
 ## Awards
