@@ -65,3 +65,5 @@ header_pages:
   - contact.markdown
   - cv.markdown
   - portfolio.markdown
+
+favicon: /assets/images/odd_mune_profile.png
