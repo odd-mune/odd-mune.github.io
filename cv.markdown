@@ -30,3 +30,4 @@ Game designer with focus on world building and level design.
 ## References
 
 * [Professor Hyekyung Kim](/assets/documents/hyekyung_kim_letter_of_recommendation.pdf), [Department of Digital Contents](http://dc.khu.ac.kr/html/), [College of Art & Design](https://and.khu.ac.kr/and_eng/user/main/view.do), [Kyung Hee University](https://www.khu.ac.kr/eng/user/main/view.do)
+* [Professor Chanseo Elly Park](/assets/documents/chanseo_elly_park_letter_of_recommendation.pdf), [Kyung Hee University](https://www.khu.ac.kr/eng/user/main/view.do), [Korea University](https://graduate.korea.ac.kr/about/organization.html)
