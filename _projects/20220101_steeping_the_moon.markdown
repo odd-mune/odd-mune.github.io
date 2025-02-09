@@ -20,7 +20,7 @@ I had an experience funding a modern reinterpretation of a traditional wine cup 
 
 * Genre: New Media Art, Projection Mapping
 * Type of project: Student project (this was meant to be a project for the course "New Media Art" where professor held an exhibition for projects with high standards)
-* Schedule: January 1, 2022 &rarr; March 6, 2022
+* Schedule: January 1, 2022 &rarr; March 6, 2022 (65 days)
 * Team/solo: Solo
 * Status: Completed
 
