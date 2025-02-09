@@ -4,8 +4,6 @@ image: "/assets/images/gourmet_of_fire.png"
 layout: project
 ---
 
-## Gourmet of Fire
-
 [Link to the game](https://odd-mune.itch.io/gourmet-of-fire)
 
 <div class="slideshow-container">
@@ -71,6 +69,7 @@ layout: project
   document.addEventListener("DOMContentLoaded", showSlides);
 </script>
 
+## Overview
 
 Explaination of the game
 

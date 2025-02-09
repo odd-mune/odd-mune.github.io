@@ -4,8 +4,6 @@ image: "/assets/images/a_cup_embodying_the_aesthetic_of_restraint.jpg"
 layout: project
 ---
 
-## A Cup Embodying the Aesthetic of Restraint
-
 * [First crowdfunding campaign](https://tumblbug.com/sasarom)
 * [Second crowdfunding campaign](https://tumblbug.com/sasarom_2)
 * [Official Instagram](https://www.instagram.com/sasarom.official)
@@ -87,6 +85,8 @@ layout: project
 
   document.addEventListener("DOMContentLoaded", showSlides);
 </script>
+
+## Overview
 
 🍶 "Enjoying the Aesthetic of Moderation"
 

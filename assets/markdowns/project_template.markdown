@@ -4,8 +4,6 @@ image: "/assets/images/gourmet_of_fire.png"
 layout: project
 ---
 
-## <Project-Name>
-
 Link to the game
 
 <div class="slideshow-container">
@@ -71,6 +69,7 @@ Link to the game
   document.addEventListener("DOMContentLoaded", showSlides);
 </script>
 
+## Overview
 
 Explaination of the game
 
