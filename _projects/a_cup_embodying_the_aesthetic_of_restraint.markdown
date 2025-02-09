@@ -53,7 +53,7 @@ layout: project
     margin: auto;
     overflow: hidden;
     border-radius: 10px;
-    aspect-ratio: 16 / 9; /* Maintain a proper aspect ratio */
+    aspect-ratio: 1240 / 1540; /* Maintain a proper aspect ratio */
     background-color: black; /* Prevents white flashes */
   }
 
@@ -155,6 +155,11 @@ I was a product designer, a product photographer, and a customer services manage
 
 ## Reviews / Feedbacks
 
-[Reviews](a_cup_embodying_the_aesthetic_of_restraint_reviews.jpg)
+![Reviews](/assets/images/a_cup_embodying_the_aesthetic_of_restraint_reviews.jpg)
+
+Translations:
+
+* I recently have more time enjoying light drinks at home, and now I can get both aesthetics and restraint at the same time! It makes me really fill the cup up to the column lol (@sooo*** / 21 yo / female)
+* I sometimes drink fruit 
 
 [Blog Review](https://blog.naver.com/designpress2016/222346699284)
