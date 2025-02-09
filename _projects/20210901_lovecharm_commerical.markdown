@@ -25,6 +25,10 @@ A short viral ad video of around 1 minute, perfect for Instagram feeds, reels, a
 
 ## Contributions / Responsibilities
 
+* Adobe Illustrator
+* Adobe After Effects
+* Adboe Premiere
+
 ### Design Goal
 
 * Create a trendy commercial targeted at Gen-Z

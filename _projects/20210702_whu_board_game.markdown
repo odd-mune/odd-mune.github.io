@@ -88,6 +88,9 @@ Are you ready to get to the bottom of it?
 
 ## Contributions / Responsibilities
 
+* Adobe Illustrator
+* Adobe Photoshop
+
 ### Design Goal
 
 * Design a board/level that is well-balanced that allows strategic plays
