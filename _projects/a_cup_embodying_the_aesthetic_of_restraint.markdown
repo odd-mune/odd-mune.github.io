@@ -22,7 +22,6 @@ layout: project
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_postcard.jpg" alt="Postcard"></div>
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_product_0.jpg" alt="Product 0"></div>
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_product_1.jpg" alt="Product 1"></div>
-    <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_product_2.jpg" alt="Product 2"></div>
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_0.jpg" alt="Sample 0"></div>
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_1.jpg" alt="Sample 1"></div>
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_2.jpg" alt="Sample 2"></div>
@@ -36,12 +35,6 @@ layout: project
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_10.jpg" alt="Sample 10"></div>
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_11.jpg" alt="Sample 11"></div>
     <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_12.jpg" alt="Sample 12"></div>
-    <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_1.jpg" alt="Sample 0"></div>
-    <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_1.jpg" alt="Sample 0"></div>
-    <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_1.jpg" alt="Sample 0"></div>
-    <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_1.jpg" alt="Sample 0"></div>
-    <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_1.jpg" alt="Sample 0"></div>
-    <div class="slide"><img src="/assets/images/a_cup_embodying_the_aesthetic_of_restraint_sample_1.jpg" alt="Sample 0"></div>
   </div>
 </div>
 
