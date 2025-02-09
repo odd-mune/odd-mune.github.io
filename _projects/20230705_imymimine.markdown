@@ -18,7 +18,7 @@ The story was inspired by the film "Everything Everywhere All at Once" (2022).
 * Type of project: Student project (for the course "Visual Media Design)
 * Engine: Unity
 * Supported platforms: Windows 10+
-* Schedule: July 5, 2023 &rarr; August 12, 2023
+* Schedule: July 5, 2023 &rarr; August 12, 2023 (39 days)
 * Team/solo: Team of five
 * Status: Completed
 * Role: Leader, Narrative Designer, Game Programmer
