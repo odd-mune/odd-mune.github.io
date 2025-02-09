@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<head>
+     <link rel="shortcut icon" type="image/x-icon" href="odd_mune_profile.ico">
+</head>
