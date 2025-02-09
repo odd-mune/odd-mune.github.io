@@ -4,7 +4,11 @@ image: "/assets/images/gourmet_of_fire.png"
 layout: project
 ---
 
-[Link to the game](https://odd-mune.itch.io/gourmet-of-fire)
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/W7AT3YjdtvY" title="Gourmet of Fire" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen><br>Powered by <a href="https://youtubeembedcode.com">youtube embed code</a> and <a href="https://snabblan.io/">snabblån utan uc</a></iframe></p>
+
+* [Link to the game](https://odd-mune.itch.io/gourmet-of-fire)
+* [Instagram](https://www.instagram.com/gourmet_of_fire)
+* [Devlogs](https://savory-postage-c8f.notion.site/Gourmet-of-Fire-09430cb0422e4ee8bebb1ec8d10c4811?pvs=24)
 
 <div class="slideshow-container">
   <div class="slides-wrapper">
@@ -71,18 +75,23 @@ layout: project
 
 ## Overview
 
-Explaination of the game
+"Embark on an adventure to find your own 美味(taste)."
+
+In the land of gourmet, the Kingdom of Cuisine, under the protection of the fire spirit, the ancient flames are passed down, continuing their legacy. The spark that split from the first flame has safeguarded the kingdom's people and contributed to the development of its culinary culture. However, as time passed, the flame began to lose its vigor, and despite the kingdom's efforts to restore it, the flame continues to weaken day by day. In the midst of this decline, the princess, born with the strongest protection of fire and the ability to hear the song of fire, feels a deep sense of responsibility. Determined to solve the crisis, she embarks on an adventure beyond the palace to find a solution.
 
 * Genre: 2D top-down cooking adventure
 * Type of project: Graduation project
 * Engine: Unity
 * Supported platforms: Windows / HTML
-* Schedule: 2024.01 ~ 2024.12
+* Schedule: January 1, 2024 &rarr; November 15, 2024 (320 days)
 * Team/solo: Team of two
 * Status: Finished prototype
 * Role: Game designer, game programmer
 
 ## Contributions / Responsibilities
+
+* Unity
+* C#
 
 ### Design Goal
 
