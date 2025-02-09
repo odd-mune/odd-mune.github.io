@@ -24,6 +24,7 @@ Link to the game
 <style>
   .slideshow-container {
     max-width: 600px;
+    height: 400px;
     position: relative;
     margin: auto;
     overflow: hidden;
@@ -32,17 +33,21 @@ Link to the game
 
   .slides-wrapper {
     display: flex;
-    width: 800%;
+    width: 100%;
+    height: 100%
     transition: transform 1s ease-in-out;
   }
 
   .slide {
     min-width: 100%;
+    height: 100%;
+    flex-shrink: 0;
   }
 
   .slide img {
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: contain; /* Ensures the image fits properly */
     border-radius: 10px;
   }
 </style>
