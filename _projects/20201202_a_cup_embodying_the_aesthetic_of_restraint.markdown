@@ -97,7 +97,7 @@ In the past, Myeongok Woo squandered all his wealth due to his indulgence in alc
 We have reinterpreted this historic cup modernly, bringing an entirely new product to life.
 
 * Type of project: Startup crowdfunded project
-* Schedule: December 2, 2020 &rarr; July 13, 2021 (223 days)
+* Schedule: December 2, 2020 &rarr; July 13, 2021 (224 days)
 * Team/solo: Team of nine
 * Status: Completed
 * Role: Product Design, Packaging, Shipping, Customer Services Manager
@@ -137,14 +137,10 @@ I was a product designer, a product photographer, and a customer services manage
 
 * Inventory management
   * Due to the minimum amount of inventories required to request for manufacturing, we had some leftover products after distributing them to the patrons. We had to set the expected sales appropriately to determine the number of items to manufacture. We also had to open additional online store pages to sell the goods.
+  * We even opened [an online store in Japan](https://www.makuake.com/project/yneed/?utm_source=yneed&utm_medium=sns_share_tw)
 * Packaging design
   * I used eco-friendly design for the packages, and it was hard for me to find a good eco-friendly materials for especially the fillings
 * Sending packages
-
-### Possible Improvements
-
-* Setting a leader role for more unified and focused viewpoints.
-  * This project gave me a lot of insights into why a project needs a leader and what the leader should do for successful teamwork
 
 ## Reviews / Feedbacks
 
