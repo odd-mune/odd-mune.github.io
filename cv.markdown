@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-<img src="assets/images/profile_picture_front.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
+<img src="/assets/images/profile_picture_front.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
 
 Mingyeom Song
 
