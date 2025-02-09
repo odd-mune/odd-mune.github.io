@@ -17,6 +17,14 @@ layout: project
   </div>
 </div>
 
+<iframe width="315" height="560" 
+src="https://www.youtube.com/embed/XxQl0HsecVQ" 
+title="Emoji Human" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
+
 <style>
   .slideshow-container {
     max-width: 700px;
