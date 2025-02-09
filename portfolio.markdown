@@ -7,7 +7,7 @@ permalink: /portfolio/
 <h1>Projects</h1>
 
 <div class="portfolio-grid">
-  {% for project in site.projects %}
+  {% for project in site.projects reversed %}
   <div class="portfolio-item">
     <a href="{{ project.url }}">
       <img src="{{ project.image }}" alt="{{ project.title }}">
