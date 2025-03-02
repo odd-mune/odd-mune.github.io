@@ -92,6 +92,10 @@ In the land of gourmet, the Kingdom of Cuisine, under the protection of the fire
 
 ![Story Outline](/assets/images/gourmet_of_fire_creative_submission_02.jpg)
 
+![Level Design](/assets/images/gourmet_of_fire_creative_submission_03_level_design.jpg)
+
+![Mechanics](/assets/images/gourmet_of_fire_creative_submission_03_gameplay_and_systems_design_and_programming.jpg)
+
 ## Contributions / Responsibilities
 
 * Unity
@@ -99,17 +103,58 @@ In the land of gourmet, the Kingdom of Cuisine, under the protection of the fire
 
 ### Design Goal
 
+Cooking plays a supporting role in other typical games. They would either heal, give them ability boosts, and etc. I wanted to make a cooking mechanics as the major part of the gameplay in this Cooking Fantasy genre. I wanted to show that cooking can serve as a purpose of adventure.
+
+Secondary goal was to complete a game, not a prototype. I have created some student projects where I or the team would develop a prototype, but never a complete game.
+
 ### Highlights / Major Contributions
+
+* Team Leader
+  * Led the team of two. The other member was the artist who did most of the artworks.
+* Game Designer
+  * Designed/directed the entire game
+* UI Designer
+* Game Programmer
+  * Developed the game in Unity C#
 
 ### Minor Contributions
 
+* Logo design
+* Worldbuilding
+* Concept art
+
 ### Major Challenges
 
-Add images / codes to explain
+* How to create a fun cooking mechanics, not like usual combination mechanics other games have. The purpose was to make the cooking gameplay mechanics fun, for it is the core mechanic of the game.
+* Communication
+  * Communicating with artist as a designer and programmer had some challenges
+  * We were both newbies when it comes to developing a real game, so literally had no idea what to do and what terminology to use
+  * We had to understand the development environment of each other
+    * Git, SourceTree, Google Drive, Notion, Aseprite
+  * Overcoming these was possible because I understood art, design, and programming, which helped me a lot in communicating
+* Overall resource management
+  * Artist had hard time understanding the version control(Git)
+  * Dealing with sprites sizes (block sizes, etc.)
+* Understanding Unity C# properly
+  * This project was the first time I used C# intensively
+  * Understanding implementation of different part of gameplay
+  * Overcoming the balance between my game programming abilities and my game design goals
+* Setting priorities
+  * Based on my capabilities, I had a lot of challenges on making priorities
+  * Priorities based on what I want to implement, what I can implement, and what the game actually needs to be a "game"
 
 ### Possible Improvements
 
+* Optimizing the pre-production to maximize the production time
+  * We had a lot of mistakes due to lack of experiences during the pre-production
+  * Now I can reduce the pre-production process because I know where and what to focus
+
 ## Reviews / Feedbacks
+
+* I have learned how to create a design documents based on priorities and schedule
+  * How and where to focus
+  * One of the key abilities of a game designer is to figure out what is the most important job given the game design ideas, time schedule, and actual development capabilities
 
 ## Gameplay Videos
 
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/W7AT3YjdtvY" title="Gourmet of Fire" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen><br>Powered by <a href="https://youtubeembedcode.com">youtube embed code</a> and <a href="https://snabblan.io/">snabblån utan uc</a></iframe></p>
